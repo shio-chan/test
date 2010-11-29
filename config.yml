@@ -36,10 +36,10 @@ tcp_listen_port: 11311
 ## These options are mostly used to construct the Git URL to the remote repo
 
 # The remote user
-remote_user: shio-chan
+remote_user: git 
 
 # The remote address (can be IP or hostname)
-remote_addr: git@github.com
+remote_addr: @github.com
 
 # Remote repository path
 # e.g.: 
