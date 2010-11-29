@@ -2375,3 +2375,10 @@ I, [2010-11-29T23:30:11.374600 #56248]  INFO -- : ====== End Remote Status =====
 I, [2010-11-29T23:30:11.374749 #56248]  INFO -- : ====== Checking Folder Status ======
 I, [2010-11-29T23:30:11.428126 #56248]  INFO -- : Changed: log/git.log
 I, [2010-11-29T23:30:11.428334 #56248]  INFO -- : 1 files changed, committing...
+I, [2010-11-29T23:30:11.474682 #56248]  INFO -- : Files committed!
+I, [2010-11-29T23:30:11.475039 #56248]  INFO -- : Pushing changes to remote...
+I, [2010-11-29T23:30:16.870065 #56248]  INFO -- : Git push complete!
+I, [2010-11-29T23:30:16.870357 #56248]  INFO -- : ====== End Folder Status ======
+I, [2010-11-29T23:30:21.870997 #56248]  INFO -- : ====== Checking Folder Status ======
+I, [2010-11-29T23:30:21.919178 #56248]  INFO -- : Changed: log/git.log
+I, [2010-11-29T23:30:21.919409 #56248]  INFO -- : 1 files changed, committing...
