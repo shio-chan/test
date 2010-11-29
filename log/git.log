@@ -337,3 +337,16 @@ I, [2010-11-29T22:41:23.235569 #56248]  INFO -- : ====== End Folder Status =====
 I, [2010-11-29T22:41:28.236230 #56248]  INFO -- : ====== Checking Folder Status ======
 I, [2010-11-29T22:41:28.282079 #56248]  INFO -- : Changed: log/git.log
 I, [2010-11-29T22:41:28.282318 #56248]  INFO -- : 1 files changed, committing...
+I, [2010-11-29T22:41:28.309166 #56248]  INFO -- : Files committed!
+I, [2010-11-29T22:41:28.309643 #56248]  INFO -- : Pushing changes to remote...
+I, [2010-11-29T22:41:33.221758 #56248]  INFO -- : Git push complete!
+I, [2010-11-29T22:41:33.222139 #56248]  INFO -- : Cleaning up repository...
+I, [2010-11-29T22:41:33.264223 #56248]  INFO -- : Cleaning finished!
+I, [2010-11-29T22:41:33.264390 #56248]  INFO -- : ====== End Folder Status ======
+I, [2010-11-29T22:41:38.264879 #56248]  INFO -- : ====== Checking Remote Status ======
+I, [2010-11-29T22:41:43.217045 #56248]  INFO -- : Current remote: 8ad4e5e067b5b4402928f771ee7e6974ebdbe7bd
+I, [2010-11-29T22:41:43.217288 #56248]  INFO -- : Current local: 8ad4e5e067b5b4402928f771ee7e6974ebdbe7bd
+I, [2010-11-29T22:41:43.217385 #56248]  INFO -- : ====== End Remote Status ======
+I, [2010-11-29T22:41:43.217478 #56248]  INFO -- : ====== Checking Folder Status ======
+I, [2010-11-29T22:41:43.261048 #56248]  INFO -- : Changed: log/git.log
+I, [2010-11-29T22:41:43.261314 #56248]  INFO -- : 1 files changed, committing...
