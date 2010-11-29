@@ -4,3 +4,5 @@ I, [2010-11-29T22:22:18.256925 #55980]  INFO -- : Initializing TCP server on 127
 I, [2010-11-29T22:22:18.258027 #55980]  INFO -- : Starting TCP server
 I, [2010-11-29T22:23:55.660647 #56035]  INFO -- : Initializing TCP server on 127.0.0.1:11311
 I, [2010-11-29T22:23:55.661316 #56035]  INFO -- : Starting TCP server
+I, [2010-11-29T22:34:28.439169 #56248]  INFO -- : Initializing TCP server on 127.0.0.1:11311
+I, [2010-11-29T22:34:28.439834 #56248]  INFO -- : Starting TCP server

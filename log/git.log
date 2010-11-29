@@ -33,3 +33,13 @@ I, [2010-11-29T22:23:55.661469 #56035]  INFO -- : ====== Checking Folder Status 
 I, [2010-11-29T22:23:55.703759 #56035]  INFO -- : Changed: log/git.log
 I, [2010-11-29T22:23:55.703954 #56035]  INFO -- : Changed: log/tcp.log
 I, [2010-11-29T22:23:55.704023 #56035]  INFO -- : 2 files changed, committing...
+I, [2010-11-29T22:23:55.732319 #56035]  INFO -- : Files committed!
+I, [2010-11-29T22:23:55.732534 #56035]  INFO -- : Pushing changes to remote...
+I, [2010-11-29T22:23:58.893132 #56035]  INFO -- : Git push complete!
+I, [2010-11-29T22:23:58.893388 #56035]  INFO -- : ====== End Folder Status ======
+I, [2010-11-29T22:24:03.894055 #56035]  INFO -- : ====== Checking Remote Status ======
+I, [2010-11-29T22:34:28.438862 #56248]  INFO -- : Opening git repository...
+I, [2010-11-29T22:34:28.439981 #56248]  INFO -- : ====== Checking Folder Status ======
+I, [2010-11-29T22:34:28.480911 #56248]  INFO -- : Changed: log/git.log
+I, [2010-11-29T22:34:28.481112 #56248]  INFO -- : Changed: log/tcp.log
+I, [2010-11-29T22:34:28.481181 #56248]  INFO -- : 2 files changed, committing...
