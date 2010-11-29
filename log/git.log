@@ -1224,3 +1224,14 @@ I, [2010-11-29T23:02:40.163245 #56248]  INFO -- : ====== End Folder Status =====
 I, [2010-11-29T23:02:45.163826 #56248]  INFO -- : ====== Checking Folder Status ======
 I, [2010-11-29T23:02:45.209318 #56248]  INFO -- : Changed: log/git.log
 I, [2010-11-29T23:02:45.209534 #56248]  INFO -- : 1 files changed, committing...
+I, [2010-11-29T23:02:45.280430 #56248]  INFO -- : Files committed!
+I, [2010-11-29T23:02:45.280630 #56248]  INFO -- : Pushing changes to remote...
+I, [2010-11-29T23:02:50.445196 #56248]  INFO -- : Git push complete!
+I, [2010-11-29T23:02:50.445435 #56248]  INFO -- : ====== End Folder Status ======
+I, [2010-11-29T23:02:55.445947 #56248]  INFO -- : ====== Checking Remote Status ======
+I, [2010-11-29T23:03:00.341123 #56248]  INFO -- : Current remote: 3bad1ea9cd777be491a7873a6aa06caa8c046b0f
+I, [2010-11-29T23:03:00.341304 #56248]  INFO -- : Current local: 3bad1ea9cd777be491a7873a6aa06caa8c046b0f
+I, [2010-11-29T23:03:00.341359 #56248]  INFO -- : ====== End Remote Status ======
+I, [2010-11-29T23:03:00.341418 #56248]  INFO -- : ====== Checking Folder Status ======
+I, [2010-11-29T23:03:00.381825 #56248]  INFO -- : Changed: log/git.log
+I, [2010-11-29T23:03:00.382057 #56248]  INFO -- : 1 files changed, committing...
