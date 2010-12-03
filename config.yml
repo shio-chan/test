@@ -36,14 +36,14 @@ tcp_listen_port: 11311
 ## These options are mostly used to construct the Git URL to the remote repo
 
 # The remote user
-remote_user: git 
+remote_user: siori
 
 # The remote address (can be IP or hostname)
-remote_addr: @github.com
+remote_addr: @seurat.tomilab.net
 
 # Remote repository path
 # e.g.: 
 # in: git@github.com:[meltingice/RubyDrop.git]
 # it's what's in the brackets []
-remote_path: shio-chan/test.git
+remote_path: ~/RubyDrop.git
 
